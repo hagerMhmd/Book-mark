@@ -1,0 +1,91 @@
+body
+{
+    font-family: arial;
+}
+h3 
+{
+    font-size: 25px;
+    color: #AAA;
+}
+h2 
+{
+    font-size: 1.5em;
+}
+button[class="btn-primary"]:hover
+{
+    background-color: #0a3f77;
+    border: 1px solid #0a3f77;
+}
+button:hover , .hover:hover
+{
+    box-shadow: 2px 5px 3px 0px #888 !important;
+
+}
+.btn-myDanger
+{
+    background-color: #910004;
+    color: white;
+    border: 1px solid #910004;
+}
+.btn-myDanger:hover
+{
+    color: white;
+}
+.my-bg
+{
+    background-color:  #eee !important;
+}
+.myRowBg
+{
+    background-image: linear-gradient(#EEE,#FFF);
+}
+.form-container
+{
+    width: 80% !important;
+}
+.container .row h2 
+{
+    width: 30% !important ;
+    color: #333 !important;
+    font-weight: 600 !important;
+}
+.error
+{
+    background-color: #ffb2b2;
+    color: #6d0000;
+    border: 1px solid #6d0000;
+    padding: 5px;
+    margin: 10px 0px;
+    /* width: 80%; */
+    font-size: 18px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+/* .my-container
+{
+    width: 60%;
+}
+h1
+{
+    font-family: Impact !important;
+    font-size: 80px !important;
+    margin: 0.67em 0rem !important;   
+}
+p
+{
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+}
+button
+{
+    padding: 1.5rem 5rem;
+    background-color: blue !important; 
+    margin-bottom: 2rem !important;
+    color: white;
+    transition: all 0.3s;
+}
+button:hover
+{
+    background-color: green !important; 
+} */
